@@ -1,0 +1,2 @@
+﻿
+configure_file ("ARIAL.TTF" ${CMAKE_BINARY_DIR} COPYONLY)

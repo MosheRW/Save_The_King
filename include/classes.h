@@ -1,0 +1,18 @@
+#pragma once
+#include "Globals.h"
+#include "Warrior.h"
+
+#include "Tiles/Wall.h"
+#include "Tiles/Throne.h"
+#include "Tiles/Thief.h"
+#include "Tiles/Teleporter.h"
+#include "Tiles/Orc.h"
+#include "Tiles/Mage.h"
+#include "Tiles/King.h"
+#include "Tiles/Key.h"
+#include "Tiles/Gift.h"
+#include "Tiles/Gate.h"
+#include "Tiles/Fire.h"
+#include "Tiles/Empty.h"
+#include "Tiles/Dwarf.h"
+#include "Tiles/Tiles.h"
